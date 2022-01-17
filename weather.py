@@ -4,7 +4,7 @@ from requests import get
 #set up the API url using my unique key and the city I want weather for
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 CITY = "London"
-API_KEY = "788256d53bfc0ad38ad27910fff619c7"
+API_KEY = "<redacted>"
 
 URL = BASE_URL + "q=" + CITY + "&appid=" + API_KEY
 
