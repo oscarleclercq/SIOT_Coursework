@@ -1,0 +1,1 @@
+rclone copy -v onedrive:Y4_IoT /home/pi/Desktop/IoT/data_final.csv
